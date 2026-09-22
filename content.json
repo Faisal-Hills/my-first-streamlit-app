@@ -1,0 +1,58 @@
+{
+  "Python": {
+    "title": "Python for Data Analytics",
+    "description": "Master automation, data cleaning with Pandas, and API integration.",
+    "videos": [
+      {
+        "title": "Python for Beginners (Full Course)",
+        "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Download Python Cheat Sheet (PDF)",
+        "file_name": "python_guide.pdf",
+        "type": "pdf"
+      },
+      {
+        "label": "Download Pandas Exercises (Word)",
+        "file_name": "python_exercises.docx",
+        "type": "word"
+      }
+    ]
+  },
+  "PowerBI": {
+    "title": "Power BI & DAX Essentials",
+    "description": "Learn to design executive dashboards and structure logical relationships.",
+    "videos": [
+      {
+        "title": "Complete Power BI Roadmap",
+        "url": "https://www.youtube.com/watch?v=TmhQCQr_DCA"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Download DAX Formulas (PDF)",
+        "file_name": "powerbi_guide.pdf",
+        "type": "pdf"
+      }
+    ]
+  },
+  "SQL": {
+    "title": "SQL Querying Fundamentals",
+    "description": "Understand database connections, complex joins, and aggregations.",
+    "videos": [
+      {
+        "title": "SQL Database Masterclass",
+        "url": "https://www.youtube.com/watch?v=HXTDiZgM9b0"
+      }
+    ],
+    "documents": [
+      {
+        "label": "Download SQL Query Guide (PDF)",
+        "file_name": "sql_guide.pdf",
+        "type": "pdf"
+      }
+    ]
+  }
+}
