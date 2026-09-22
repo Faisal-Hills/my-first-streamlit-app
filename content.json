@@ -4,8 +4,12 @@
     "description": "Master automation, data cleaning with Pandas, and API integration.",
     "videos": [
       {
-        "title": "Python for Beginners (Full Course)",
+        "title": "Python for Beginners (Single Video)",
         "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8"
+      },
+      {
+        "title": "Complete Python Learning Playlist (Multi-Video Course)",
+        "url": "https://www.youtube.com/watch?v=s5MJpRBQLgo&list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti"
       }
     ],
     "documents": [
